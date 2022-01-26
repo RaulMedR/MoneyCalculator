@@ -1,0 +1,13 @@
+USD, Unites States Dollar, $
+CAD, Canada Dollar, $
+GBP, United Kingdom Pount, £
+EUR, Euro Member Countries, €
+MKD, Macedonia Denar, ден
+NOK, Norway Krone, kr
+PKR, Pakistan Rupee, ₨
+QAR, Qatar Riyal, ﷼
+RUB, Russia Ruble, ₽
+SGD, Singapore Dollar, $
+KRW, South Korean Won, ₩
+TRY, Turkey Lira, ₺
+VEF, Venezuela Bolivar, Bs
