@@ -1,7 +1,7 @@
 package Controller;
 
 import Model.Money;
-import Persistance.WebExchangeRate;
+import Model.WebExchangeRate;
 import View.Dialog;
 import View.Display;
 

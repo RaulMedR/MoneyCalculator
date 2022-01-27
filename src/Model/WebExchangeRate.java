@@ -1,4 +1,4 @@
-package Persistance;
+package Model;
 
 import Model.Currency;
 import java.io.BufferedReader;
